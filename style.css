@@ -1,0 +1,54 @@
+body {
+  background-color: orange
+}
+* {
+  border: dashed 2px black;
+}
+
+div {
+  border-radius:  100px;
+  height: 150px;
+  width: 150px;
+  margin: 2em;
+}
+
+h1 {
+  font-family: Garamond;
+
+}
+
+.div1 {
+  background-color: blue;
+}
+
+.div2 {
+  background-color: yellow;
+}
+
+.div3 {
+  background-color: black
+}
+
+.div4 {
+  background-color: green
+}
+
+.div5 {
+  background-color: lightblue
+}
+
+.div6 {
+  background-color: red
+}
+
+.div7 {
+  background-color: purple
+}
+
+.div8 {
+  background-color: brown
+}
+
+.div9 {
+  background-color: indigo
+}
